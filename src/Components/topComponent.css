@@ -1,0 +1,34 @@
+
+.img_div {
+    float: left;
+    padding-right:15%;
+    padding-top: 120px;
+    padding-left: 15%;
+}
+
+.img_text{
+    padding-top: 120px;
+    width: 30%;
+    float: left;
+}
+
+.img_text h1 {
+    margin: 0px
+}
+
+.img_text p {
+    color: #868686;
+    margin-top:5px;
+}
+
+
+@media (max-width: 1050px){
+    .img_text {
+        padding-left: 10%;
+        width:80%;
+        margin-top: -400px;
+    }
+    .img_div{
+        margin-top: 100px;
+    }
+}

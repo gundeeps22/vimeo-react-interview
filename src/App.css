@@ -1,0 +1,34 @@
+.upperDiv{
+    height: 50vh;
+    width: auto;
+}
+
+.lowerDiv{
+    height: 50vh;
+    width: auto;
+    background-image: linear-gradient(#333333, #333333);
+}
+
+.lowestDiv{
+    height: 50vh;
+    width: auto;
+    background-image: linear-gradient(#333333,white);
+
+}
+
+.topComponent {
+    height: 50vh;
+    width: inherit;
+}
+
+@media (max-width:1050px){
+    .lowerDiv{
+        height: 60vh;
+    }
+
+    .lowestDiv{
+        height: 60vh;
+        background-image: linear-gradient(#333333,white);
+
+    }
+}

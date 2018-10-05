@@ -1,0 +1,43 @@
+
+#carousel_img {
+    background: url('https://m.media-amazon.com/images/M/MV5BOGVhNjUwYTItYmI2NS00ZGI1LWE5ZDQtMWVjMTIyODAzMDI4XkEyXkFqcGdeQXVyMjQ3NzUxOTM@._V1_.jpg');
+    background-position: center bottom;
+    filter: blur(10px);
+    -webkit-filter: blur(10px);
+    height: 400px;
+    width: 100%;
+}
+
+.img_content{
+    color:white;
+    position: absolute;
+    top: 20%;
+    left: 20%;
+}
+
+#carousel_img2 {
+    background: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5zmYJBkN-K2RwjykPZBZO_rzJVueiZ3pRJRq9vKGFA1x0JH3m');
+    background-position: center bottom;
+    filter: blur(10px);
+    -webkit-filter: blur(10px);
+    height: 400px;
+    width: 100%;
+}
+
+#carousel_img3 {
+    background: url('http://www.gstatic.com/tv/thumb/v22vodart/12664790/p12664790_v_v8_af.jpg');
+    filter: blur(10px);
+    -webkit-filter: blur(10px);
+    background-position: center middle;
+    height: 500px;
+    width: 250%;
+}
+
+#carousel_img4 {
+    background: url('https://is3-ssl.mzstatic.com/image/thumb/Video62/v4/35/b9/a2/35b9a22f-6c95-7977-ebda-252245aa4688/pr_source.png/268x0w.png');
+    filter: blur(10px);
+    -webkit-filter: blur(10px);
+    background-position: center middle;
+    height: 500px;
+    width: 250%;
+}
